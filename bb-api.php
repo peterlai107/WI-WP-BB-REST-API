@@ -5,7 +5,11 @@ Description: Extend the <a href="https://github.com/WP-API/WP-API">WP API</a> to
 Author: Brent Shepherd
 Author URI: http://brent.io
 Version: 1.0
+Plugin URI: https://github.com/peterlai107/WI-WP-BB-REST-API
 
+***This program is cloned from "https://github.com/thenbrent/BB-API" v1.0***
+
+ 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
