@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: bbPress JSON API
+Plugin Name: WI WP BBPRESS REST API
 Description: Extend the <a href="https://github.com/WP-API/WP-API">WP API</a> to create a JSON-based REST API for bbPress forums, topics & replies.
 Author: Brent Shepherd
 Author URI: http://brent.io
